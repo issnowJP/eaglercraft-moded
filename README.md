@@ -1,1 +1,1 @@
-# eaglercraft-moded.github.io
+# eaglercraft-moded
